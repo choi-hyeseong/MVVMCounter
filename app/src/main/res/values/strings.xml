@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMCounter</string>
+    <string name="button_str">Increase!</string>
+</resources>
